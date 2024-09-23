@@ -10,20 +10,20 @@ With a wide range of connectors for seamless data movement between systems and p
 
 By combining serverless infrastructure, simplified development, and operational excellence, Decodable provides a comprehensive solution for real-time data, empowering organizations to harness the full potential of their data.
 
-## Try it out
+## 👉 Try it out
 
-👉 https://app.decodable.co/-/accounts/create?_gl=1*12qyzm7*_gcl_au*MTY2MDg5MDExNS4xNzIxMDYyODI4[Create a free account] and get started today!
+https://app.decodable.co/-/accounts/create?_gl=1*12qyzm7*_gcl_au*MTY2MDg5MDExNS4xNzIxMDYyODI4[Create a free account] and get started today!
 
-## Learn more
+## 🧑‍🎓 Learn more
 
 * https://www.decodable.co/product[Product details]
 * https://www.decodable.co/product/deployment-options[Deployment options]
 * https://www.decodable.co/solutions[Solution guides]
 
-## Read the docs
+## 📖 Read the docs
 
-📚 https://docs.decodable.co/[Decodable documentation]
+https://docs.decodable.co/[Decodable documentation]
 
-## Read the blog
+## 📚 Read the blog
 
-✍️ https://www.decodable.co/blog/[Decodable blog]
+https://www.decodable.co/blog/[Decodable blog]
