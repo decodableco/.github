@@ -1,8 +1,8 @@
-image::decodable_logo.webp[]
+![Decodable logo](./decodable_logo.webp)
 
 _Decodable radically simplifies real-time data, making it easier to access the freshest, high-quality data. Reduce infrastructure overhead, connect data sources, transform, and deliver data reliably to any destination._
 
-image::welcome-to-decodable.webp[]
+![Welcome to Decodable](./welcome-to-decodable.webp)
 
 Decodable offers a simplified, unified approach to real-time data with its fully-managed, serverless platform. Powered by battle-tested open-source technologies like Apache Flink and Debezium, Decodable eliminates the complexity and overhead of managing infrastructure, allowing data engineering teams to focus on building pipelines using SQL, Java, or Python.
 
@@ -12,18 +12,18 @@ By combining serverless infrastructure, simplified development, and operational 
 
 ## 👉 Try it out
 
-https://app.decodable.co/-/accounts/create?_gl=1*12qyzm7*_gcl_au*MTY2MDg5MDExNS4xNzIxMDYyODI4[Create a free account] and get started today!
+[Create a free account](https://app.decodable.co/-/accounts/create?_gl=1*12qyzm7*_gcl_au*MTY2MDg5MDExNS4xNzIxMDYyODI4) and get started today!
 
 ## 🧑‍🎓 Learn more
 
-* https://www.decodable.co/product[Product details]
-* https://www.decodable.co/product/deployment-options[Deployment options]
-* https://www.decodable.co/solutions[Solution guides]
+* [Product details](https://www.decodable.co/product)
+* [Deployment options](https://www.decodable.co/product/deployment-options)
+* [Solution guides](https://www.decodable.co/solutions)
 
 ## 📖 Read the docs
 
-https://docs.decodable.co/[Decodable documentation]
+[Decodable documentation](https://docs.decodable.co/)
 
 ## 📚 Read the blog
 
-https://www.decodable.co/blog/[Decodable blog]
+[Decodable blog](https://www.decodable.co/blog/)
