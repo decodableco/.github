@@ -1,4 +1,4 @@
-# Welcome to Decodable
+image::decodable_logo.png[]
 
 _Decodable radically simplifies real-time data, making it easier to access the freshest, high-quality data. Reduce infrastructure overhead, connect data sources, transform, and deliver data reliably to any destination._
 
